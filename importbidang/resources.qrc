@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/importbidang" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
